@@ -29,7 +29,7 @@
 #   end
 # end
 
-lass Customer
+class Customer
   attr_accessor :name, :age
  
   @@all = []
